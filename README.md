@@ -1,5 +1,4 @@
 # Cypress.js
-Автотест на Cypress JS 
 
 <p align="center">
   <img src="https://github.com/philt27/Cypress.js/assets/124879514/f61e5815-7011-437f-b875-f1480ed5ea70" alt="Sublime's custom image"/>
@@ -12,7 +11,7 @@
 В этом репозитории пример автотеста на Cypress JS 
 ```
 
-- Автотест добавления двух товаров в Сравнение [https://trial-sport.ru]
+- Автотест Вход на сайт Покемонов и покупка Аватара тренера на сайте [https://pokemonbattle.me]
 
 
 Для настройки ``` Cypress 12.7 ``` необходимо:
@@ -35,7 +34,7 @@ npx cypress open
 ```
 
 
-  *Все новые тесты нужно писать в папке ```cypress/e2e```, а сам файл должне называться: ``` название.cy.js ```
+  *Все новые тесты нужно писать в папке ```cypress/e2e```, а сам файл должен называться: ``` название.cy.js ```
 
 
 <p align="center">
